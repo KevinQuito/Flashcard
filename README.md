@@ -1,0 +1,2 @@
+# Flashcard
+This application loads a list of vocabulary/characters from a csv file ie. French/Japanese and displays the words in French. The user can click on the icons if he remembers the vocabulary or not. The list of words that the user does not remember will be saved in a separate csv file and will load that instead the next the user executes the application. This program also uses the Tkinter module to create the GUI for the user.
